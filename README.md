@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://images.unsplash.com/photo-1581091215363-9f387c8c20c0?auto=format&fit=crop&w=800&q=80" width="100%" />
 
-<!--
-**smithasediga/smithasediga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Smitha S
 
-Here are some ideas to get you started:
+💻 **MCA Student | Full-Stack Developer | Data & ML Enthusiast**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+I love building projects that combine **web development** and **machine learning** to solve real-world problems.  
+
+### 🔧 Tools & Skills
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js  
+- **Databases:** MySQL, MongoDB  
+- **Data & ML:** Python, Pandas, Scikit-learn, TensorFlow  
