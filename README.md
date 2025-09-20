@@ -1,14 +1,13 @@
-<img src="https://images.unsplash.com/photo-1581091215363-9f387c8c20c0?auto=format&fit=crop&w=800&q=80" width="100%" />
-
 # Hi 👋, I'm Smitha S
 
-💻 **MCA Student | Full-Stack Developer | Data & ML Enthusiast**  
+💻 **MCA Student | Full-Stack Developer | Data & ML Enthusiast**
 
-### ⚡ About Me
-I love building projects that combine **web development** and **machine learning** to solve real-world problems.  
+I turn ideas into reality by combining **web development** and **machine learning**. From building interactive web apps to analyzing data and creating predictive models, I enjoy solving **real-world problems with code**.  
 
 ### 🔧 Tools & Skills
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Node.js  
-- **Databases:** MySQL, MongoDB  
-- **Data & ML:** Python, Pandas, Scikit-learn, TensorFlow  
+- **Frontend:** React.js, HTML, CSS, JavaScript – crafting responsive and dynamic user interfaces.  
+- **Backend:** Node.js – building robust server-side logic.  
+- **Databases:** MySQL, MongoDB – managing and structuring data efficiently.  
+- **Data & ML:** Python, Pandas, Scikit-learn, TensorFlow – analyzing data and training models to uncover insights.  
+
+✨ Always learning, experimenting, and pushing the boundaries of **tech and analytics**.
